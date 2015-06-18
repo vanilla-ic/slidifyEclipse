@@ -34,7 +34,7 @@ The problem, however, is that this information can not be easily comprehended by
 
 There is considerable research on how eclipses affect tides, plants, animals, weather and other areas of nature. However, this research is in it's early stages. Wouldn't it be nice to avoid an area at a certain time if there is a chance it may affect you in a negative way?
 
-Please try out the app  https://vanilla-ic.shinyapps.io/DevDataProdProject
+Please try out the app  http://vanilla-ic.shinyapps.io/DevDataProdProj
 
 
 --- .class #id 
